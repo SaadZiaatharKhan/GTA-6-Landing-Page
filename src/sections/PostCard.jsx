@@ -30,7 +30,7 @@ const PostCard = () => {
                 muted
                 playsInline
                 preload='auto'
-                src="/public/videos/postcard-vd.mp4"
+                src="/videos/postcard-vd.mp4"
             />
             <button className='group-hover:bg-yellow transation duration-700'>
                 Explore Leonida Keys
